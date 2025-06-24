@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDosAppRoom</string>
+    <string name="search_hint">Search todos...</string>
+    <string name="todo_name_hint">Todo name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation_title">Delete Todo</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="empty_state_message">No todos yet.\nTap the + button to add one!</string>
+    <string name="todo_added_successfully">Todo added successfully</string>
+    <string name="todo_updated_successfully">Todo updated successfully</string>
+    <string name="todo_deleted_successfully">Todo deleted successfully</string>
+    <string name="error_empty_todo_name">Todo name cannot be empty</string>
+    <string name="error_loading_todos">Error loading todos: %1$s</string>
+    <string name="error_searching_todos">Error searching todos: %1$s</string>
+    <string name="error_adding_todo">Error adding todo: %1$s</string>
+    <string name="error_updating_todo">Error updating todo: %1$s</string>
+    <string name="error_deleting_todo">Error deleting todo: %1$s</string>
+    <string name="todo_not_found">Todo not found</string>
+    <string name="edit_todo_title">Edit Todo</string>
+    <string name="add_todo_title">Add New Todo</string>
+</resources>
